@@ -57,3 +57,12 @@ body {
     font-size: 20px;
     margin: 10px;
 }
+
+@media screen and (max-width: 486px){
+	.quote_container {
+		width: 80%;
+	}
+	#bouton{
+		width: 80%;
+	}
+}
